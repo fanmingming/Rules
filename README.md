@@ -1,6 +1,7 @@
 # QX-Config
+
 自用Quantumult X配置
----
+
 ##使用方法
 
 ---
