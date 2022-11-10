@@ -1,6 +1,6 @@
 # 自用Quantumult X配置
 ## 使用说明
- [长按这里](https://raw.githubusercontent.com/fanmingming/QX-Config/main/QuantumultX.conf) > 拷贝链接 > 打开App > 长按右下角"风车"图标 > 配置文件 > 下载配置
+- [长按这里](https://raw.githubusercontent.com/fanmingming/QX-Config/main/QuantumultX.conf) > 拷贝链接 > 打开App > 长按右下角"风车"图标 > 配置文件 > 下载配置
 ## 包含功能
 - 内置国内国际主流App分流规则和香港最优选择以及美国、香港、日本、台湾、新加坡节点策略组
 - 内置[KOP-XIAO](https://github.com/KOP-XIAO)的资源解析器和节点信息显示
