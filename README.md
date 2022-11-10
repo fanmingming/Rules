@@ -17,4 +17,4 @@
 - 策略图标
 [右键复制链接](https://raw.githubusercontent.com/fanmingming/QX-Config/main/filter-icon.json)
 ## 更新记录
--2022.11.10
+- 2022.11.10
