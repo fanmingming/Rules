@@ -1,7 +1,7 @@
 {
 "name":"Country icon", 
 "description":"fanmingming", 
-"QX-Configs":
+"icons":
 [
 	{"name":"CN", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Country\/CN.png"},  
 	{"name":"HK02", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Country\/HK02.png"}, 
