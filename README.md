@@ -10,6 +10,12 @@
 - 内置了Sub-Store(需要开启重写和MitM方可使用)
 - 内置了BoxJs(默认关闭)如需使用请查看配置文件注释进行修改
 
+## Quantumult X图标
+> 长按 节点/策略 > 图标 > 点击右上角“+”，输入json链接
+-国家地区图标
+[右键复制链接](https://raw.githubusercontent.com/fanmingming/QX-Config/main/filter-icon.json)
+-策略图标
+[右键复制链接](https://raw.githubusercontent.com/fanmingming/QX-Config/main/filter-icon.json)
 ## 更新记录
 
 -2022.11.10
