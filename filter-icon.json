@@ -1,7 +1,7 @@
 {
 	"name":"Filter icon", 
 	"description":"fanmingming", 
-	"QX-Configs":
+	"icons":
 	[	
 		{"name":"AdBlock", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Filter\/AdBlock.png"},
 		{"name":"Reject", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Filter\/Reject.png"},
