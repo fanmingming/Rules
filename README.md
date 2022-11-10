@@ -1,8 +1,8 @@
 # 自用Quantumult X配置
 
-> 使用请[点击这里](https://raw.githubusercontent.com/fanmingming/QX-Config/main/QuantumultX.conf)
+> 使用请[点击这里](https://raw.githubusercontent.com/fanmingming/QX-Config/main/QuantumultX.conf)导入App
 
-##包含功能
+## 包含功能
 
 - 内置[@KOP-XIAO](https://github.com/KOP-XIAO)的资源解析器和节点信息显示
 - 内置[@blackmatrix7](https://github.com/blackmatrix7)的开源分流规则
