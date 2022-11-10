@@ -15,6 +15,6 @@
 ## Quantumult X图标
 - 国家地区图标 长按【[country-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/country-icon.json)】 > 拷贝链接
 - 策略图标 长按【[filter-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/filter-icon.json)】 > 拷贝链接
- 打开App 长按 节点或策略 > 图标 > 点击右上角“+”，输入json链接
+*打开App 长按 节点或策略 > 图标 > 点击右上角“+”，输入json链接
 ## 更新记录
 - 2022.11.10
