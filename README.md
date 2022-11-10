@@ -10,10 +10,10 @@
 ## 脚本任务
 - GeoIP查询
 - 流媒体解锁检测
-## Quantumult X图标
+## 图标扩展
 *使用方法：打开App 长按 节点或策略 > 图标 > 点击右上角“+”，输入json链接*
-- 国家地区图标 长按【[country-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/country-icon.json)】 > 拷贝链接
-- 策略图标 长按【[filter-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/filter-icon.json)】 > 拷贝链接
+- 国家地区图标【[country-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/country-icon.json)】
+- 策略图标【[filter-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/filter-icon.json)】
 > 策略与国家地区图标使用[erdongchanyo](https://github.com/erdongchanyo)的开源图标库，在此表示感谢
 ## Sub-Store & BoxJs
 *请先开启重写和MitM后使用，BoxJs(默认关闭)如需使用请查阅配置文件注释进行修改，Sub Store默认开启*
