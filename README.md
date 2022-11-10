@@ -7,7 +7,7 @@
 - 策略与国家地区图标使用[erdongchanyo](https://github.com/erdongchanyo)的开源图标库
 - 内置了[Peng-YM](https://github.com/Peng-YM)的Sub-Store(需要开启重写和MitM方可使用)
 - 内置了[chavyleung](https://github.com/chavyleung)的BoxJs(默认关闭)如需使用请查看配置文件注释进行修改
-- 内置香港最优节点选择、国内策略、国外策略、广告策略、国外媒体策略和国内国际主流App分流规则以及美国、香港、日本、台湾、新加坡节点策略组
+- 内置香港最优节点选择、国内策略、国外策略、广告策略、国外媒体策略和主流App分流规则以及美国、香港、日本、台湾、新加坡节点策略组
 ## 脚本任务
 - GeoIP查询
 - 流媒体解锁检测
