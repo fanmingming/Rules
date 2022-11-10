@@ -1,6 +1,6 @@
 # 自用Quantumult X配置
 ## 使用说明
-- [长按这里](https://raw.githubusercontent.com/fanmingming/QX-Config/main/QuantumultX.conf) > 拷贝链接 > 打开App > 长按右下角"风车"图标 > 配置文件 > 下载配置
+ [长按这里](https://raw.githubusercontent.com/fanmingming/QX-Config/main/QuantumultX.conf) > 拷贝链接 > 打开App > 长按右下角"风车"图标 > 配置文件 > 下载配置
 ## 包含功能
 - 内置[KOP-XIAO](https://github.com/KOP-XIAO)的资源解析器和节点信息显示
 - 内置[blackmatrix7](https://github.com/blackmatrix7)的开源分流规则
