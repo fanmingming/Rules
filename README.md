@@ -15,7 +15,7 @@
 - 国家地区图标 长按【[country-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/country-icon.json)】 > 拷贝链接
 - 策略图标 长按【[filter-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/filter-icon.json)】 > 拷贝链接
 ## Sub-Store & BoxJs
-*请先开启重写以及MitM后使用，BoxJs(默认关闭)如需使用请查看配置文件注释进行修改*
+*请先开启重写和MitM后使用，BoxJs(默认关闭)如需使用请查阅配置文件注释进行修改*
 - 订阅管理工具，访问[https://sub.store](https://sub.store)
 - BoxJs，访问[https://boxjs.com](https://boxjs.com)
 ## 更新记录
