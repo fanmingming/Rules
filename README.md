@@ -17,7 +17,6 @@
 - 机场图标【[airport-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/airport-icon.json)】
 > 策略与国家地区图标使用[erdongchanyo](https://github.com/erdongchanyo)的开源图标库，机场图标投稿【[请点这里](https://t.me/fanmingming)】
 ## Sub-Store & BoxJs
-*请先开启重写和MitM后使用，BoxJs(默认关闭)如需使用请查阅配置文件注释进行修改，Sub Store默认开启*
 - 订阅管理工具，访问[https://sub.store](https://sub.store)
 - BoxJs，访问[https://boxjs.com](https://boxjs.com)
 ## 更新记录
