@@ -3,6 +3,9 @@
 "description":"fanmingming", 
 "icons":
 [
+	{"name":"VPN", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Airport\/Vpn.png"}, 
+	{"name":"Personal", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Airport\/Personal.png"}, 
+	{"name":"Piao", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Airport\/Piao.png"}, 
 	{"name":"XSUS", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Airport\/XSUS.png"},  	
 	{"name":"oneyuan", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Airport\/oneyuan.png"},
 	{"name":"CNIX", "url":"https:\/\/raw.githubusercontent.com\/fanmingming\/QX-Config/main\/Airport\/CNIX.png"},
