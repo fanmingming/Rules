@@ -5,7 +5,7 @@
 - 内置[blackmatrix7](https://github.com/blackmatrix7)大佬的开源分流规则
 - 内置[KOP-XIAO](https://github.com/KOP-XIAO)大佬的开源资源解析器和节点信息显示
 - 内置[Peng-YM](https://github.com/Peng-YM)大佬的Sub-Store订阅管理工具
-- 内置[chavyleung](https://github.com/chavyleung)大佬的BoxJs脚本工具(默认未启用)
+- 内置[chavyleung](https://github.com/chavyleung)大佬的BoxJs脚本工具
 - 内置香港最优节点选择、国内策略、国外策略、广告策略、国外媒体策略和主流App分流规则以及美国、香港、日本、台湾、新加坡节点策略组
 ## 脚本任务
 - GeoIP查询
