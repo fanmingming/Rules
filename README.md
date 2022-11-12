@@ -21,4 +21,4 @@
 - 订阅管理工具，访问[https://sub.store](https://sub.store)
 - BoxJs，访问[https://boxjs.com](https://boxjs.com)
 ## 更新记录
-- 2022.11.11
+- 2022.11.12
