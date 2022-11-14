@@ -1,4 +1,6 @@
+<center>
 # 自用Quantumult X配置
+</center>
 ## 使用说明
 - [长按这里](https://raw.githubusercontent.com/fanmingming/QX-Config/main/QuantumultX.conf) > 拷贝链接
 - 打开App > 长按右下角"风车"图标 > 配置文件 > 下载配置
