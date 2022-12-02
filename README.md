@@ -7,7 +7,7 @@
 - 内置[KOP-XIAO](https://github.com/KOP-XIAO)大佬的开源资源解析器和节点信息显示
 - 内置[Peng-YM](https://github.com/Peng-YM)大佬的Sub-Store订阅管理工具
 - 内置[chavyleung](https://github.com/chavyleung)大佬的BoxJs脚本工具
-- 内置香港最优节点选择、国内策略、国外策略、广告策略和主流App分流规则以及美国、香港、日本、台湾、新加坡节点策略组
+- 内置香港最优节点选择、国内策略、国外策略和主流App分流规则以及美国、香港、日本、台湾、新加坡节点策略组
 ## 脚本任务
 - GeoIP查询
 - 流媒体解锁检测
@@ -21,4 +21,4 @@
 - 订阅管理工具，访问[https://sub.store](https://sub.store)
 - BoxJs，访问[http://boxjs.com](http://boxjs.com)
 ## 更新记录
-- 2022.11.21
+- 2022.12.2
