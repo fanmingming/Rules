@@ -1,8 +1,8 @@
 {
-	"name":"Filter icon", 
-	"description":"fanmingming", 
-	"icons":
-	[	
+"name":"Filter icon", 
+"description":"fanmingming", 
+"icons":
+[	
 	{"name":"AdBlock", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Filter/AdBlock.png"},
 	{"name":"Reject", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Filter/Reject.png"},
 	{"name":"BGP", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Filter/BGP.png"},
@@ -51,5 +51,5 @@
 	{"name":"Twitter", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Filter/Twitter.png"},
 	{"name":"Weibo", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Filter/Weibo.png"},
 	{"name":"Game", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Filter/Game.png"},
-	]
-	}
+]
+}
