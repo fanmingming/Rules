@@ -4,12 +4,12 @@
 - 打开App > 选择右下角"风车"图标 > 配置文件 > 下载配置 > 粘贴
 ## Stash 使用说明
 - [点击这里](https://github.com/fanmingming/Rules/raw/main/Stash.yaml) > 下载配置文件
-- 打开App > 选择“设置” > 配置文件 > 从文件导入 > 找到 Stash > 选择
+- 打开App > 选择“设置” > 配置文件 > 从文件导入 > 选择
 ## 包含功能
 - 内置[blackmatrix7](https://github.com/blackmatrix7)的开源分流规则
 - 内置[KOP-XIAO](https://github.com/KOP-XIAO)的开源资源解析器和节点信息显示
 - 内置[Peng-YM](https://github.com/Peng-YM)的Sub-Store订阅管理工具
-- 内置[chavyleung](https://github.com/chavyleung)的BoxJs脚本工具
+- Quantumult X配置内置[chavyleung](https://github.com/chavyleung)的BoxJs脚本工具
 - 内置香港最优节点选择、国内策略、国外策略和主流App分流规则以及美国、香港、日本、韩国、台湾、新加坡节点策略组
 ## 脚本任务
 - GeoIP查询
