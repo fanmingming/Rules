@@ -3,14 +3,14 @@
 "description":"fanmingming", 
 "icons":
 [
-	{"name":"VPN", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Airport/Vpn.png"}, 
-	{"name":"Personal", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Airport/Personal.png"}, 
-	{"name":"Piao", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Airport/Piao.png"}, 
-	{"name":"XSUS", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Airport/XSUS.png"},  	
-	{"name":"oneyuan", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Airport/oneyuan.png"},
-	{"name":"CNIX", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Airport/CNIX.png"},
-	{"name":"Flower", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Airport/Flower.png"},
-	{"name":"fanqiang", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Airport/fqjc.png"},
-	{"name":"Hxlm", "url":"https://raw.githubusercontent.com/fanmingming/QX-Config/main/Airport/Hxlm.png"}
+	{"name":"VPN", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/Vpn.png"}, 
+	{"name":"Personal", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/Personal.png"}, 
+	{"name":"Piao", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/Piao.png"}, 
+	{"name":"XSUS", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/XSUS.png"},  	
+	{"name":"oneyuan", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/oneyuan.png"},
+	{"name":"CNIX", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/CNIX.png"},
+	{"name":"Flower", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/Flower.png"},
+	{"name":"fanqiang", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/fqjc.png"},
+	{"name":"Hxlm", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/Hxlm.png"}
 ]
 }
