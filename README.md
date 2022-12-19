@@ -3,8 +3,8 @@
 - [长按这里](https://raw.githubusercontent.com/fanmingming/Rules/main/QuantumultX.conf) > 拷贝链接
 - 打开App > 选择右下角"风车"图标 > 配置文件 > 下载配置 > 粘贴
 ## Stash 使用说明
-- [长按这里](https://github.com/fanmingming/Rules/raw/main/Stash.yaml) > 拷贝链接
-- 打开App > 选择“设置” > 配置文件 > 从URL下载 > 粘贴
+- [点击这里](https://github.com/fanmingming/Rules/raw/main/Stash.yaml) > 下载配置文件
+- 打开App > 选择“设置” > 配置文件 > 从文件导入 > 找到 Stash > 选择
 ## 包含功能
 - 内置[blackmatrix7](https://github.com/blackmatrix7)的开源分流规则
 - 内置[KOP-XIAO](https://github.com/KOP-XIAO)的开源资源解析器和节点信息显示
