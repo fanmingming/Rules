@@ -16,9 +16,9 @@
 - 流媒体解锁检测
 ## 图标扩展
 *使用方法：打开App 长按 节点或策略 > 图标 > 点击右上角“+”，输入json链接*
-- 国家地区图标【[country-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/country-icon.json)】
-- 策略图标【[filter-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/filter-icon.json)】
-- 机场图标【[airport-icon.json](https://raw.githubusercontent.com/fanmingming/QX-Config/main/airport-icon.json)】
+- 国家地区图标【[country-icon.json](https://raw.githubusercontent.com/fanmingming/Rules/main/country-icon.json)】
+- 策略图标【[filter-icon.json](https://raw.githubusercontent.com/fanmingming/Rules/main/filter-icon.json)】
+- 机场图标【[airport-icon.json](https://raw.githubusercontent.com/fanmingming/Rules/main/airport-icon.json)】
 > 策略与国家地区图标使用[erdongchanyo](https://github.com/erdongchanyo)的开源图标库，机场图标投稿【[请点这里](https://t.me/fanmingming)】
 ## Sub-Store & BoxJs
 - 订阅管理工具，访问[https://sub.store](https://sub.store)
