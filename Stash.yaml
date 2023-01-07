@@ -28,18 +28,7 @@ dns:
   #列表中的域名将不会被解析为fake ip，这些域名相关的解析请求将会返回它们真实的IP地址
   fake-ip-filter:
     - '*.lan'
-    - localhost.ptlogin2.qq.com
-    - '+.srv.nintendo.net'
-    - '+.stun.playstation.net'
-    - '+.msftconnecttest.com'
-    - '+.msftncsi.com'
-    - '+.xboxlive.com'
-    - 'msftconnecttest.com'
-    - 'xbox.*.microsoft.com'
-    - '*.battlenet.com.cn'
-    - '*.battlenet.com'
-    - '*.blzstatic.cn'
-    - '*.battle.net'
+    - xsus.buzz
 
 #本地代理
 proxies:
@@ -166,6 +155,7 @@ proxy-groups:
   proxies:
   - US
   - HK
+  - TW
   - SG
   - Final
   - DIRECT
@@ -219,11 +209,31 @@ proxy-groups:
   - JP
   - TW
   - SG
-  - Proxy
   - Final
+  - Proxy
   - DIRECT
   icon: https://raw.githubusercontent.com/fanmingming/Rules/main/Filter/Speedtest.png
-
+  
+- name: Apple
+  type: select
+  proxies:
+  - Final
+  - Proxy
+  - DIRECT
+  icon: https://raw.githubusercontent.com/fanmingming/Rules/main/Filter/Apple.png
+  
+- name: Google
+  type: select
+  proxies:
+  - US
+  - HK
+  - JP
+  - TW
+  - SG
+  - Final
+  - DIRECT
+  icon: https://raw.githubusercontent.com/fanmingming/Rules/main/Filter/Google.png
+  
 - name: Mainland
   type: select
   proxies:
@@ -298,8 +308,20 @@ rule-providers:
   Instagram-rules:
     behavior: classical
     interval: 86400
-    name: Weibo
+    name: Instagram
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Instagram/Instagram.yaml
+
+  Instagram-rules:
+    behavior: classical
+    interval: 86400
+    name: Apple
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Apple/Apple.yaml
+
+  Instagram-rules:
+    behavior: classical
+    interval: 86400
+    name: Google
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Google/Google.yaml
 
   Mainland-rules:
     behavior: classical
@@ -330,6 +352,8 @@ rules:
 - RULE-SET,Twitter-rules,Twitter
 - RULE-SET,Speedtest-rules,Speedtest
 - RULE-SET,Instagram-rules,Instagram
+- RULE-SET,Instagram-rules,Apple
+- RULE-SET,Instagram-rules,Google
 - RULE-SET,Mainland-rules,Mainland
 - RULE-SET,MainlandIP-rules,Mainland
 - GEOIP,CN,DIRECT
