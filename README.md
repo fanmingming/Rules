@@ -12,7 +12,6 @@
 - Quantumult X配置内置[chavyleung](https://github.com/chavyleung)的BoxJs脚本工具
 - 内置香港最优节点选择、国内策略、国外策略和主流App分流规则以及美国、香港、日本、韩国、台湾、新加坡节点策略组
 ## 脚本任务
-- GeoIP查询
 - 流媒体解锁检测
 ## 图标扩展
 *使用方法：打开App 长按 节点或策略 > 图标 > 点击右上角“+”，输入json链接*
@@ -24,4 +23,4 @@
 - 订阅管理工具，访问[https://sub.store](https://sub.store)
 - BoxJs，访问[http://boxjs.com](http://boxjs.com)
 ## 更新记录
-- 2023.1.7
+- 2023.3.14
