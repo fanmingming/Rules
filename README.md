@@ -11,6 +11,7 @@
 - 内置[Peng-YM](https://github.com/Peng-YM)的Sub-Store订阅管理工具
 - Quantumult X配置内置[chavyleung](https://github.com/chavyleung)的BoxJs脚本工具
 - 内置香港最优节点选择、国内策略、国外策略和主流App分流规则以及美国、香港、日本、韩国、台湾、新加坡节点策略组
+- Quantumult X配置增加Spotify重写解锁premium
 ## 脚本任务
 - 流媒体解锁检测
 ## 图标扩展
