@@ -28,4 +28,5 @@
 - 订阅管理工具，访问[https://sub.store](https://sub.store)
 - BoxJs，访问[http://boxjs.com](http://boxjs.com)
 ## 更新记录
-- 2023.4.30
+- 2023.8.30
+  - Qx的Sub Store更新去掉了Sub Store的本地重写
