@@ -1,10 +1,7 @@
-# 自用Quantumult X & Stash 配置 & Loon 配置
+# 自用Quantumult X & Loon 配置
 ## Quantumult X 使用说明
 - [长按这里](https://raw.githubusercontent.com/fanmingming/Rules/main/QuantumultX.conf) > 拷贝链接
 - 打开App > 选择右下角"风车"图标 > 配置文件 > 下载配置 > 粘贴
-## Stash 使用说明
-- [点击这里](https://raw.githubusercontent.com/fanmingming/Rules/main/Stash.yaml) > 下载配置文件
-- 打开App > 选择“设置” > 配置文件 > 从文件导入 > 选择
 ## Loon 使用说明
 - [长按这里](https://raw.githubusercontent.com/fanmingming/Rules/main/Loon.conf) > 拷贝链接
 - 打开App > 选择“设置” > 找到“编辑”类目下的从URL下载 > 粘贴
@@ -28,5 +25,5 @@
 - 订阅管理工具，访问[https://sub.store](https://sub.store)
 - BoxJs，访问[http://boxjs.com](http://boxjs.com)
 ## 更新记录
-- 2023.8.30
-  - Qx的Sub Store更新去掉了Sub Store的本地重写
+- 2023.11.20
+  - 针对ChatGPT升级，补全了Qx的分流规则。
