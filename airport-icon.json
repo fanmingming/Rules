@@ -4,10 +4,9 @@
 "icons":
 [
 	{"name":"VPN", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/Vpn.png"},
-	{"name":"tutucloud", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/tutucloud.png"}
-	{"name":"Personal", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/Personal.png"}, 
-	{"name":"Westdata", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/westdata.png"}, 
-	{"name":"XSUS", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/XSUS.png"},  	
+	{"name":"tutucloud", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/tutucloud.png"},
+	{"name":"Personal", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/Personal.png"},
+	{"name":"Westdata", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/westdata.png"},
 	{"name":"oneyuan", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/oneyuan.png"},
 	{"name":"CNIX", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/CNIX.png"},
 	{"name":"Flower", "url":"https://raw.githubusercontent.com/fanmingming/Rules/main/Airport/Flower.png"},
